@@ -34,17 +34,17 @@ This project demonstrates the implementation of a Machine Learning predictive mo
 
 - Mean Absolute Error (MAE)
 - R² Score
-
+<img width="326" height="214" alt="Screenshot 2026-06-03 170949" src="https://github.com/user-attachments/assets/3847d109-bb59-45ff-b44b-b695d28fc4f5" />
 ## visualisation
 
 ### prediction
-![DatasetPreview]
+![DatasetPreview]<img width="812" height="480" alt="Screenshot 2026-06-03 171009" src="https://github.com/user-attachments/assets/4f22ea2e-0bce-4106-a9e1-17e53f7ece1e" />
 
 ### model accuracy
-![accuracy]
+![accuracy]<img width="681" height="697" alt="Screenshot 2026-06-03 171000" src="https://github.com/user-attachments/assets/66467ec9-0372-44e8-9535-4b64ababcb9a" />
 
 ### Truth table 
-![truthtable]
+![truthtable]<img width="1033" height="559" alt="Screenshot 2026-06-03 170613" src="https://github.com/user-attachments/assets/4fcce37b-ce12-48e4-af81-a4d46ea485e5" />
 
 ## Output
 
