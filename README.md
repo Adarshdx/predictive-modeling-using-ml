@@ -53,7 +53,6 @@ The project generates:
 - Model evaluation metrics
 - Scatter plot visualization
 
-## Learning Outcomes
 
 - Understanding supervised learning
 - Building predictive models
