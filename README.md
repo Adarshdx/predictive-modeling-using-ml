@@ -58,7 +58,7 @@ The project generates:
 - Building predictive models
 - Model evaluation techniques
 - Data visualization
-- Machine Learning workflow
+- Machine Learning workflow.
 
 ## Author
 
